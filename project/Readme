@@ -1,0 +1,1 @@
+g++ project.cpp models.cpp imageloader.cpp -o project -lGL -lGLU -lglut -lGLEW -lm
